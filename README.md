@@ -19,3 +19,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Sevkar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sevkar" /></a></p><br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sevkar-sudo/Sevkar-sudo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sevkar-sudo/Sevkar-sudo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sevkar-sudo/Sevkar-sudo/output/github-contribution-grid-snake.svg">
+</picture>
